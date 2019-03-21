@@ -19,7 +19,7 @@
 	url = git@github.com:Maxwin-z/ssziparchive.git
 [submodule "newsmth/ThirdParty/ReactiveCocoa"]
 	path = newsmth/ThirdParty/ReactiveCocoa
-	url = git@github.com:Maxwin-z/ReactiveCocoa.git
+	url = git@github.com:ReactiveCocoa/ReactiveCocoa.git
 
 [submodule "newsmth/ThirdParty/fmdb"]
 	path = newsmth/ThirdParty/fmdb
